@@ -1,8 +1,8 @@
 # Documentación Arquitectura AGROBODEGA
 
 **Autores:**
-[Nombre 1]
-[Nombre 2]
+[Kelly Fernanda Uribe Giraldo]
+[Daniel Henao Londoño]
 
 ---
 
